@@ -1,0 +1,14 @@
+C:\git\api\ParkApi\obj\Debug\netcoreapp2.2\ParkApi.csproj.CoreCompileInputs.cache
+C:\git\api\ParkApi\obj\Debug\netcoreapp2.2\ParkApi.RazorAssemblyInfo.cache
+C:\git\api\ParkApi\obj\Debug\netcoreapp2.2\ParkApi.RazorAssemblyInfo.cs
+C:\git\api\ParkApi\obj\Debug\netcoreapp2.2\ParkApi.AssemblyInfoInputs.cache
+C:\git\api\ParkApi\obj\Debug\netcoreapp2.2\ParkApi.AssemblyInfo.cs
+C:\git\api\ParkApi\bin\Debug\netcoreapp2.2\ParkApi.deps.json
+C:\git\api\ParkApi\bin\Debug\netcoreapp2.2\ParkApi.runtimeconfig.json
+C:\git\api\ParkApi\bin\Debug\netcoreapp2.2\ParkApi.runtimeconfig.dev.json
+C:\git\api\ParkApi\bin\Debug\netcoreapp2.2\ParkApi.dll
+C:\git\api\ParkApi\bin\Debug\netcoreapp2.2\ParkApi.pdb
+C:\git\api\ParkApi\obj\Debug\netcoreapp2.2\ParkApi.RazorTargetAssemblyInfo.cache
+C:\git\api\ParkApi\obj\Debug\netcoreapp2.2\ParkApi.dll
+C:\git\api\ParkApi\obj\Debug\netcoreapp2.2\ParkApi.pdb
+C:\git\api\ParkApi\obj\Debug\netcoreapp2.2\ParkApi.csprojAssemblyReference.cache
